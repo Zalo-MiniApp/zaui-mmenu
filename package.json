@@ -57,6 +57,6 @@
     "tailwindcss": "^3.4.1",
     "typescript": "^5.3.3",
     "vite": "^5.1.4",
-    "zmp-vite-plugin": "^1.1.1"
+    "zmp-vite-plugin": "^1.1.6"
   }
 }

@@ -6,13 +6,12 @@ mMenu Mini App. Built with:
 - APIs: ZMP SDK, `fetch`
 - State management: Jotai
 - I18n: react-i18next
-- Package management: pnpm (please do not use yarn/npm to polute lock files).
 - IDE: VS Code + [Zalo Mini App Extension](https://mini.zalo.me/devtools/?lang=vi)
 
 ## Installation
 
 1. Clone the repository
-2. Install dependencies: `pnpm i`
+2. Install dependencies: `npm i`
 3. Set up environment variables in `.env.development` file (when developing using VS Code + Extension) and `.env.production` file (when deploying to Zalo Mini App).
 
    - VITE_APP_ID: Mini App ID.
